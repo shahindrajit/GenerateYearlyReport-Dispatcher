@@ -1,6 +1,6 @@
 # GenerateYearlyReport-Dispatcher
 Generate Yearly Report Dispatcher(part1)
-Part 2 URL
+Part 2 URL https://github.com/shahindrajit/GenerateYearlyReportForVendor-Performer.git
 
 Assignment no. 2
 Additional info
